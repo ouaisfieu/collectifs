@@ -114,18 +114,19 @@ Arrête-moi si tu peux
 
 ## Cookie Street Medic Chaotique 
 
-![[cookieStreetmedic.jpg|256]]
+![Image](cookieStreetmedic.jpg)
 ```
 Bé-né-vole.
 Et je loot ces grosses dépouilles de cadavres.
 ```
 ## Cookies Roms Raisin
 
-![[cookiesRomRaisin.jpg|256]]
+![Image](cookiesRomRaisin.jpg)
 > Dans le TOP 3
 ## Cookies en promo
 
-![[cookiesPromo.jpg|256]]
+![Image](cookiesPromo.jpg)
+
 > Juste par solidarité
 
 ## Cookie télétravail
