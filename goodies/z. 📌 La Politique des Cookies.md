@@ -130,7 +130,8 @@ Et je loot ces grosses dépouilles de cadavres.
 
 ## Cookie télétravail
 
-![Cookie maison]({{ 'cookieMaison.jpg' | relative_url }}){: width="256" }
+![Image](/images/cookieMaison.jpg)
+
 ```
 Chéri, je suis rentré.
 ```
