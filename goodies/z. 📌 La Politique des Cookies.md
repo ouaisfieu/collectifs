@@ -16,7 +16,7 @@ Les **vrais cookies** en informatique sont de petits fichiers texte stockés sur
     - Fournir des fonctionnalités de sécurité (ex. : protection contre les attaques CSRF).
 - **Caractéristique :** Ils ne nécessitent pas le consentement de l'utilisateur, car ils sont indispensables.
 
-![[cookieStrict.jpg|256]]
+![Image](cookieStrict.jpg)
 ```
 Hé ouais !
 ```
@@ -30,7 +30,7 @@ Hé ouais !
     - Détecter et résoudre les problèmes techniques.
 - **Caractéristique :** Les données sont généralement anonymisées, mais dans certains cas, elles peuvent être considérées comme des données personnelles (nécessitent un consentement dans ce cas).
 
-![[cookiePoorPoorPoor.jpg|256]]
+![Image](cookiePoorPoorPoor.jpg)
 ```
 - une B.A ?
 - Pour ta B.N ? C'est ça ouais.
@@ -45,7 +45,7 @@ Hé ouais !
     - Enregistrer des préférences d'affichage (ex. : thème sombre ou clair).
 - **Caractéristique :** Requiert souvent le consentement de l'utilisateur, surtout dans des environnements régulés (comme l'UE).
 
-![[cookieFonction.jpg|256]]
+![Image](cookieFonction.jpg)
 ```
 On va pas chipoter, si ?
 ```
@@ -60,7 +60,7 @@ On va pas chipoter, si ?
     - Partage de données avec des tiers, comme des réseaux publicitaires.
 - **Caractéristique :** Nécessitent un consentement explicite de l'utilisateur. Ils sont souvent les plus controversés en termes de protection de la vie privée.
 
-![[cookieCiblage.jpg|256]]
+![Image](cookieCiblage.jpg)
 ```
 God'damn f****** bullshitjob !
 ```
@@ -77,7 +77,7 @@ God'damn f****** bullshitjob !
   
   C'est comme la France profonde et Gainsbourg, ça marche très bien sans.
 
-![[cookieTiers.jpg|256]]
+![Image](cookieTiers.jpg)
 ```
 ...
 ```
@@ -93,7 +93,7 @@ Les utilisateurs peuvent aussi contrôler les cookies via :
 - **Outils spécifiques** comme des extensions anti-tracking.
 
 
-![[cookieBlackBloc.jpg|256]]
+![Image](cookieBlackBloc.jpg)
 ```
 Black Side Power.
 ```
@@ -101,13 +101,13 @@ Black Side Power.
 
 ## Cookie Gangster
 
-![[cookieGangster.jpg|256]]
+![Image](cookieGangster.jpg)
 ```
 Arrête-moi si tu peux
 ```
 ## Cookie Corpo
 
-![[cookieCorpo.jpg|256]]
+![Image](cookieCorpo.jpg)
 
 
 # Le Meilleur pour la fin
