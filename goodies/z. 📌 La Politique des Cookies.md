@@ -1,9 +1,3 @@
----
-cssclasses:
-  - bd-noir
----
-
-
 # 📌 Politique des Cookies 📌
 
 Et oui, tout est politique y compris les Cookies. C'est insupportable on sait bien mais c'est comme ça. En plus il y a Cookies et Cookies
@@ -136,7 +130,7 @@ Et je loot ces grosses dépouilles de cadavres.
 
 ## Cookie télétravail
 
-![[cookieMaison.jpg|256]]
+![Cookie maison]({{ 'cookieMaison.jpg' | relative_url }}){: width="256" }
 ```
 Chéri, je suis rentré.
 ```
