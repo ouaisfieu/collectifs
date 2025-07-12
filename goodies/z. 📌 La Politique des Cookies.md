@@ -130,7 +130,7 @@ Et je loot ces grosses dépouilles de cadavres.
 
 ## Cookie télétravail
 
-![Image](/cookieMaison.jpg)
+![Image](cookieMaison.jpg)
 
 ```
 Chéri, je suis rentré.
