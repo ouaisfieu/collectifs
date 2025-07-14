@@ -7,9 +7,35 @@ remote_theme: just-the-docs/just-the-docs
 search_enabled: true
 
 collections:
+  notions:
+    output: true
+  dossiers:               # ← Ajout de la collection
+    output: true          # ← Très important pour générer les pages HTML
+  belgique:                  # ← nom de la collection (tu peux mettre "myspot" si tu préfères)
+    output: true             # ← pour générer les pages HTML
+    permalink: /belgique/:path/  # ← structure des URL
+    sort_by: title           # ← optionnel, trie par titre
+  et-vous:
+    output: true
+    # permalink: /et-vous/:path/  # ← structure des URL
   associations:
     output: true
     permalink: /association/:path/
+
+just_the_docs:
+  collections:
+    notions:
+      name: ⚙️ MENU
+      nav_fold: false
+    dossiers:             # ← Même structure pour dossiers
+      name: 📂 Dossiers      # ← Nom affiché dans la navigation
+      nav_fold: true     # ← Mettre true si tu veux un repliement dans le menu
+    belgique:
+      name: 🇧🇪 MY SPOT       # ← titre dans le menu de navigation
+      nav_fold: true         # ← false = tout est affiché dans le menu, true = replié
+    et-vous:
+      name: 🖕 UP YOURS
+      nav_fold: true
 
 defaults:
   - scope:
